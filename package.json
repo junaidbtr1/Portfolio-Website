@@ -16,5 +16,9 @@
     "url": "https://github.com/junaidbtr1/Portfolio-Website/issues"
   },
   "homepage": "https://github.com/junaidbtr1/Portfolio-Website#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "htmlhint": "^1.7.0",
+    "stylelint": "^16.24.0"
+  }
 }
