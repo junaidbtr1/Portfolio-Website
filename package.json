@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/junaidbtr1/Portfolio-Website#readme",
   "description": "",
- "devDependencies": {
-  "htmlhint": "^1.1.4",
-  "stylelint": "^16.0.0",
-  "stylelint-config-standard": "^35.0.0"
-}
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^16.0.0",
+    "stylelint-config-standard": "^35.0.0"
+  }
 }
